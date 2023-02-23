@@ -1,12 +1,16 @@
 # Description
- 
 Just a Fun Project trying out dev containers, github workspaces and github actions
 
 
+## Requirements to run it Locally 
+You need to have a Linux system and Docker installed to build and run it locally, if you are on Linux you can install WSL (Windows Subsystem for Linux) And Docker Desktop and it will run perfectly, also you have to install Remote Explorer 
 
-## TODO
-    1. initilize dev containers
-    2. init node, git 
-    3. tsc script 
-    4. install initial dependancies 
-    6. start working
+
+## Steps
+[ ] Open Docker Desktop 
+[ ] Clone The Repo and Open it With VSCode
+[ ] ctrl + shift + p 
+[ ] enter: Dev Containers: Run Container 
+
+wait for it to install all depndancies 
+
