@@ -1,7 +1,7 @@
 # Description
  
-Just a Fun Project to try dev containers, yarn workspaces and github actions
-Implementing a small Frontend Mentor 
+Just a Fun Project trying out dev containers, github workspaces and github actions
+
 
 
 ## TODO
