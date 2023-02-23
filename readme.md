@@ -7,10 +7,10 @@ You need to have a Linux system and Docker installed to build and run it locally
 
 
 ## Steps
-[ ] Open Docker Desktop 
-[ ] Clone The Repo and Open it With VSCode
-[ ] ctrl + shift + p 
-[ ] enter: Dev Containers: Run Container 
+* Open Docker Desktop
+* Clone The Repo and Open it With VSCode
+* ```ctrl + shift + p``` 
+* enter: Dev Containers: Run Container 
 
 wait for it to install all depndancies 
 
